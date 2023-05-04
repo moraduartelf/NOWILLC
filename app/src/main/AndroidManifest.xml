@@ -13,6 +13,67 @@
         android:theme="@style/Theme.NOWILLC"
         tools:targetApi="31">
         <activity
+            android:name=".VisorImagenBestolife"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".NuestrosProductos"
+            android:exported="false"
+            android:label="@string/layout_ourProd"
+            android:parentActivityName=".NuestrosProductos">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NuestrosProductos" />
+        </activity>
+        <activity
+            android:name=".ContactosActivity"
+            android:exported="false"
+            android:label="@string/layout_contacts"
+            android:parentActivityName=".ContactosActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ContactosActivity" />
+        </activity>
+        <activity
+            android:name=".BestolifeProducts"
+            android:exported="false"
+            android:label="@string/layout_bestolife"
+            android:parentActivityName=".BestolifeProducts">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BestolifeProducts" />
+        </activity>
+        <activity
+            android:name=".KimrayProducts"
+            android:exported="false"
+            android:label="@string/layout_Kimray"
+            android:parentActivityName=".KimrayProducts">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".KimrayProducts" />
+        </activity>
+        <activity
+            android:name=".NovProducts"
+            android:exported="false"
+            android:label="@string/layout_novProd"
+            android:parentActivityName=".NovProducts">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".NovProducts" />
+        </activity>
+        <activity
+            android:name=".QuienesSomos"
+            android:exported="false"
+            android:label="@string/layout_who"
+            android:parentActivityName=".QuienesSomos">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".QuienesSomos" />
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

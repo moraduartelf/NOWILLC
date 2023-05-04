@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">NOW I LLC</string>
+    <string name="layout_who">¿Quienes somos?</string>
+    <string name="layout_ourProd">Nuestros productos</string>
+    <string name="layout_novProd">Productos NOV</string>
+    <string name="layout_Kimray">Productos KIMRAY</string>
+    <string name="layout_bestolife">Productos BESTOLIFE</string>
+    <string name="layout_contacts">Contactos</string>
+    <string name="layout_clients">Nuestros clientes</string>
+    <string name="layout_followup">Seguimiento</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">close Navigation Drawer</string>
+    <string name="about">Acerca de nosotros:</string>
+    <string name="cb01_text">DistributionNOW es un distribuidor líder en la venta de tuberías, válvulas, actuadores, accesorios, suministros industriales, herramientas, equipos de seguridad y sistemas de levantamiento artificial para los sectores industriales de petróleo y gas de América Latina: upstream, midstream y downstream. Estamos orgullosos de ofrecer un extenso inventario de productos y servicios para respaldar proyectos de petróleo y gas en todo el mundo. Nuestra misión es proporcionar a nuestros clientes productos y servicios de la más alta calidad que satisfagan sus necesidades y superen sus expectativas.</string>
+    <string name="cb01_2_text">Somos reconocidos internacionalmente como el líder del mercado en gestión de la cadena de suministro, brindando servicios de valor agregado, incluidos servicios de cadena de suministro, gestión de proyectos y tecnología de comercio electrónico B2B. Tenemos un historial comprobado de éxito en ayudar a nuestros clientes a alcanzar sus objetivos de cadena de suministro. Nuestro equipo de expertos tiene el conocimiento y la experiencia para brindar las mejores soluciones posibles a sus necesidades específicas. Contáctenos hoy para obtener más información sobre cómo podemos ayudarlo a optimizar su cadena de suministro.</string>
+    <string name="cb01_3_text">Si necesita productos y servicios de alta calidad, mire más allá de nuestros socios en DNOW. Entendemos sus necesidades y la industria excepcionalmente bien con más de 150 años de experiencia en el mercado de la energía. Tenemos un inventario masivo de más de 150,000 productos diversificados, por lo que seguramente encontrará lo que necesita. Además, nuestro equipo de expertos está siempre disponible para brindar apoyo y responder cualquier pregunta que pueda tener.</string>
+    <string name="drilling">Nuestros productos para perforacion incluyen repuestos OEM,
+        insertos, mangueras, módulos y consumibles para bombas centrifugas, bombas de lodo,
+        lineas de perforación,Choke  y Kill Manifolds:</string>
 </resources>

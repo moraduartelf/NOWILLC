@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/nuestrosProductos"
+    android:icon="@drawable/ic_shopping_bag_24"
+    android:title="Nuestros productos"/>
+    <item android:id="@+id/nov"
+        android:icon="@drawable/ic_nov"
+        android:title="Productos NOV"/>
+    <item android:id="@+id/kimray"
+        android:icon="@drawable/ic_kimray"
+        android:title="Productos Kimray"/>
+    <item android:id="@+id/bestolife"
+        android:icon="@drawable/ic_bestolife"
+        android:title="Productos Bestolife"/>
+
+</group>
+    <item android:title="Sobre nosotros">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/about"
+                    android:icon="@drawable/ic_factory_24"
+                    android:title="¿Quienes somos?"/>
+                <item android:id="@+id/login"
+                    android:icon="@drawable/ic_login_24"
+                    android:title="Inicio de sesion"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Comunicación">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/contactos"
+                    android:icon="@drawable/ic_contacts_24"
+                    android:title="Contacto"/>
+                <item android:id="@+id/rate_us"
+                    android:icon="@drawable/ic_sentiment_satisfied_alt_24"
+                    android:title="Califícanos"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
